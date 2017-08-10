@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hiapphbweb", "hiapphbweb\hiapphbweb.csproj", "{16226772-46E4-468E-A9F9-FE5E0E142B75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hiapphbweb.Tests", "hiapphbweb.Tests\hiapphbweb.Tests.csproj", "{922E6290-6413-4440-A16C-D1090B411742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16226772-46E4-468E-A9F9-FE5E0E142B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16226772-46E4-468E-A9F9-FE5E0E142B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16226772-46E4-468E-A9F9-FE5E0E142B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16226772-46E4-468E-A9F9-FE5E0E142B75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{922E6290-6413-4440-A16C-D1090B411742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922E6290-6413-4440-A16C-D1090B411742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922E6290-6413-4440-A16C-D1090B411742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922E6290-6413-4440-A16C-D1090B411742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
